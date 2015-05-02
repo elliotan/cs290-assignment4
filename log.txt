@@ -1,0 +1,12 @@
+Start: Wed, 29 Apr 2015 16:01:14 -0800
+End: Wed, 29 Apr 2015 20:03:59 -0800
+Tasks: Completed all lectures and started multtable.php and login.php.  Need to research error checking request type  
+
+Start: Thu, 30 Apr 2015 17:33:24 -0800
+End: Thu, 30 Apr 2015 22:34:20 -0800
+Tasks: Finished multTable.php.  Finished most of login.php except for session counting and logout.  
+
+Start: Sat, 02 May 2015 06:15:59 -0800
+End: Sat, 02 May 2015 10:29:11 -0800
+Tasks: Finished login.php with all content and session counting.  Started and finished loopback.php.  Submitting.   
+
